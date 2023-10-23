@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'cnmsa_level1'
-copyright = '2023, Seiya'
-author = 'Seiya'
+copyright = '2023, NiiiS'
+author = 'NiiiS'
 release = 'release-0.1'
 
 # -- General configuration ---------------------------------------------------
