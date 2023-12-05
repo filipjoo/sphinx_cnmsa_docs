@@ -10,6 +10,7 @@ cnmsa_level1's documentation
    environment.rst
    cheatsheet.rst
    SpringInitializr.rst
+   STS4.rst
 
 
 
